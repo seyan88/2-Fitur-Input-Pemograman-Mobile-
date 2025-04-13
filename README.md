@@ -42,6 +42,9 @@ fun showDatePicker(view: View) {
     datePickerDialog.show()
 }
 ```
+## 📸 Screenshot Fitur Date Picker
+![WhatsApp Image 2025-04-14 at 04 49 17_3ad72a70](https://github.com/user-attachments/assets/98aaef35-15bc-493f-93b4-11ccd310173a)
+
 
 ## ⚠️ 2. Alert Dialog (Hapus Tanggal)
 Menampilkan dialog konfirmasi sebelum menghapus tanggal dari TextView.
@@ -59,6 +62,9 @@ fun hapusTanggal(view: View) {
     alertDialog.show()
 }
 ```
+## 📸 Screenshot Fitur Alert Dialog
+![WhatsApp Image 2025-04-14 at 04 49 18_dfb893cd](https://github.com/user-attachments/assets/0806e158-2ea9-4b19-b01e-9455030e4b1a)
+
 
 ## 🛠️ Teknologi yang Digunakan
 Bahasa Pemrograman: Kotlin
