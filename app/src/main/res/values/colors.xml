@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hijauMuda">#B2FF59</color>
+    <color name="hijauToska">#8BC34A</color>
+    <color name="biruMuda">#64B5F6</color>
+    <color name="biruToska">#42A5F5</color>
+    <color name="abuAbu">#9E9E9E</color>
+    <color name="abuAbuGelap">#616161</color>
+
+</resources>
